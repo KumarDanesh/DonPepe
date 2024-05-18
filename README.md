@@ -1,4 +1,4 @@
-[Live site URL](https://pizzaco.netlify.app/)
+[Live site URL](https://kumardanesh.github.io/DonPepe/)
 
 # Pizza Ordering App
 
